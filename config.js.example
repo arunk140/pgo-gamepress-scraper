@@ -1,0 +1,8 @@
+module.exports.config = {
+  apiKey: "AGDHDGHJGJHJJHKJHKJDHJSGHJ",
+  authDomain: "dfnkjsnk.firebaseapp.com",
+  databaseURL: "https://dfnkjsnk.firebaseio.com",
+  projectId: "dfnkjsnk",
+  storageBucket: "dfnkjsnk.appspot.com",
+  messagingSenderId: "243243487"
+};
